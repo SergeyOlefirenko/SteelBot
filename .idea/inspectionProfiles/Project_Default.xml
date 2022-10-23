@@ -1,0 +1,48 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="74" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E302" />
+          <option value="E251" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="random.random.randint" />
+          <option value="_dict_keys.index" />
+          <option value="main.Aa" />
+          <option value="main.Bb" />
+          <option value="main.Cc" />
+          <option value="main.key" />
+          <option value="main.value" />
+          <option value="main.readline" />
+          <option value="list.update" />
+          <option value="main.flexiple" />
+          <option value="main.data1" />
+          <option value="main.data2" />
+          <option value="int.isdigit" />
+          <option value="main.s" />
+          <option value="main.n1" />
+          <option value="main.num1" />
+          <option value="main.Student.__getitem__" />
+          <option value="main.bytes_stream" />
+          <option value="main.command" />
+          <option value="main.io" />
+          <option value="self.__size" />
+          <option value="int.__getitem__" />
+          <option value="main.soup" />
+          <option value="main.span" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
